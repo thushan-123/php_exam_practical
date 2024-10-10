@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+#content{
+    justify-content: center; /* Centers horizontally */
+    align-items: center;
+}
+
+header{
+    text-align: center;
+    background-color: aqua;
+}
+
+h3{
+    padding: 10px;
+    font-weight: normal;
+}
+
+a{
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+}
+
+#main-div {
+    width: 550px;               
+    background-color: bisque;
+    padding: 20px;
+    margin: 10px 0;  
+    
+            
+}
+
+table{
+    justify-items: center;
+}
